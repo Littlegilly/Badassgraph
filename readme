@@ -1,8 +1,8 @@
-Creater: James Nelson
-Main contributuor: Michael Gracey
+Repo creater: James Nelson
+Contributor: James Nelson, Michael Gracey
 
-Redesigning a graph built by Michael Gracey, using Photoshop and perhaps
+Re-designing a graph built by Michael Gracey, using Photoshop and perhaps
 mockup to create the intial wireframes.
 
-Will then use bootstrap to create the final product and will be using 
+Will then use Foundation 5 to create the final product and will be using 
 Sass for styling.
